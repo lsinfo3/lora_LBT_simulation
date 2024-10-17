@@ -1,2 +1,3 @@
 # lora_LBT_simulation
-Scripts and data from the publication "Applicability of Listen Before Talk for LoRaWAN Deployments with Multiple Gateways". Each scenario is contained in the corresponding directories.
+Scripts from the publication "Applicability of Listen Before Talk for LoRaWAN Deployments with Multiple Gateways". Each scenario is contained in the corresponding directories.
+The dataset is available at: https://zenodo.org/records/13948065?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImI1NGQ0MDczLWUwMDEtNGZhMC1hYWZhLTI1YzIwZThkY2M0NSIsImRhdGEiOnt9LCJyYW5kb20iOiIzNmMyNjRhNzhjYTViOGM4MzhhNDI2NTIwYTc0MzY0NiJ9.9vUUI3FwEdA3z8vFB100iOQs21l2hjvQU5HOk6_DnW2KYLFsi7YdLO0-OGoui50yHHRY7axd1iP44PUfV-AMGQ
